@@ -1,0 +1,58 @@
+.navbar {
+    background-color: rgb(78, 105, 255);
+    overflow: hidden;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0 0 10px black;
+    padding: 2px;
+}
+
+.navbar a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+    color: #f2f2f2;
+    text-align: left 20px;
+    padding: 10px 5px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.navbar a:hover {
+    background-color: rgb(42, 131, 248);
+    color: black;
+}
+
+.navbar a.active {
+    background-color: rgb(78, 160, 255);
+    color: white;
+}
+
+.text h1 {
+    color: #163ec2;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 0 0 1px black;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+.canteen h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.canteen h3 {
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 50px;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.burger img {
+    margin-top: -50px;
+}
+
+.carousel-inner {
+    box-shadow: 0 0 10px black;
+}
